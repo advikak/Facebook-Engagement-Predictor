@@ -1,4 +1,6 @@
 # Facebook-Engagement-Predictor
+The project, including code and findings are in the pdf document.
+
 Facebook is one of the largest social media platforms on the internet, where users can interact with each other and produce content. Content can come in the form of text posts, images, videos, or other forms of media. 
 
 As the popularity of social media continues to grow at an exponential rate, so does the need for businesses and influencers to take advantage of the various platforms available to grow their brand. A large amount of reach on social media yields a large fanbase, which in turn increases the brand influence. Brands and businesses can achieve this by finding ways to improve their reach through increasing engagements.
